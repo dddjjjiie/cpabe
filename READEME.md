@@ -1,0 +1,1 @@
+This software is a Java realization for "ciphertext-policy attribute based encryption" which is based on [this project](https://github.com/junwei-wang/cpabe). I implemented cpabe algorithm more gracefully according to the this project.
